@@ -1,0 +1,11 @@
+# Core text processing
+sastrawi
+numpy
+
+# Evaluation & visualization (optional)
+pandas
+matplotlib
+jupyter
+
+# Report generation (optional)
+reportlab
